@@ -2,7 +2,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="D:\xamp\php\php-cgi.exe" php_cli="D:\xamp\php\php.exe" path_separator=";" version="5.6.15" warning="Failed loading D:\xamp\php\php_xdebug-2.5.0-5.5-vc11-nts-x86_64.dll&#10;PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\xamp\php\ext\php_pdo_firebird.dll' - Nie można odnaleźć określonego modułu.&#10; in Unknown on line 0&#10;">
+        <phpinfo binary_type="PHP" php_cgi="D:\xamp\php\php-cgi.exe" php_cli="D:\xamp\php\php.exe" path_separator=";" version="5.6.15" warning="Failed loading D:\xamp\php\php_xdebug-2.5.0-5.6-vc11-nts.dll&#10;PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\xamp\php\ext\php_pdo_firebird.dll' - Nie można odnaleźć określonego modułu.&#10; in Unknown on line 0&#10;">
           <additional_php_ini />
           <configuration_file>D:\xamp\php\php.ini</configuration_file>
           <configuration_options>
